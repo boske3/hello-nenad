@@ -1,0 +1,22 @@
+{
+  "name": "hello-nenad",
+  "version": "1.0.0",
+  "description": "Say hello to Nenad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boske3/hello-nenad.git"
+  },
+  "keywords": [
+    "nenad"
+  ],
+  "author": "Nenad Bosanac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boske3/hello-nenad/issues"
+  },
+  "homepage": "https://github.com/boske3/hello-nenad#readme"
+}
